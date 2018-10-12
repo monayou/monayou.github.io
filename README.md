@@ -9,7 +9,6 @@ This is a *README* file for my repository. It is written using **Markdown**.
   <head>
     <meta charset="utf-8">
     
-    <title>(Mona You)</title>
   </head>
   <body>
     <h1>Hello World -- This is my website!</h1>
