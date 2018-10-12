@@ -1,5 +1,5 @@
 # monayou.github.io
-# My Name
+# Mona You
 
 ### I am an artist. This is my portfolio site.
 
